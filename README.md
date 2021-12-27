@@ -1,2 +1,2 @@
 # Tkinter-Calculator
-Simple Python Calculator (Tkinter)
+Calculator with addition, subtraction, multiplication, and division. Programmed using Tkinter (Python 3)
